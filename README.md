@@ -17,9 +17,7 @@ Tech blog that uses MVC, and  allows users to post messages and interact with ea
 Note: users are expected to know some JavaScript
 
 * Install NodeJS
-* Pull the Repository
 * On your project directory, you will initialize npm by typing ```npm init```
-* After that command runs a series of processes, you're ready to use npm.
 * Type ```npm i``` on the root of the repo you've just pulled. This will fetch all of the project dependencies making it possible for Node to use the functionality provided by the project. 
 * At this point, the project is ready but before that, make sure you've set up:
     * 1. A ```.env``` file at the root of the project directory with the following properties:
@@ -40,6 +38,9 @@ Note: users are expected to know some JavaScript
         * NOTE: you'll need to add JAWS DB to your heroku app if you want this app published on heroku without fail.
 
 
-## **_Heroku Deployment_**  
+## **_Link to GitHub Repository_**  
+https://github.com/PrinceAdelXX/Tech-Blog
 
+## **_Link to Deployed Heroku Application_**
+https://newsbbs.herokuapp.com/
 
