@@ -1,9 +1,9 @@
-# **_The Tech Blog_**
+# Tech-Blog
   
-## **_Description_**
-A simple blog that uses MVC paradigm that allows users to post messages and interact with eachother.
+## Description
+Tech blog that uses MVC, and  allows users to post messages and interact with each other.
 
-## **_Technologies Used_**  
+## Technologies Used 
 * JavaScript
 * MYSQL
 * Handlebars
@@ -13,11 +13,11 @@ A simple blog that uses MVC paradigm that allows users to post messages and inte
 * Bcrypt
 * Express
 
-## **_Installation_**
+## Installation
 Note: users are expected to know some JavaScript
 
-* Install [NodeJS](https://nodejs.org/en/download/) if you haven't done so yet.
-* You should also have pulled this repository at this point (we'll get to Node in second)
+* Install NodeJS
+* Pull the Repository
 * On your project directory, you will initialize npm by typing ```npm init```
 * After that command runs a series of processes, you're ready to use npm.
 * Type ```npm i``` on the root of the repo you've just pulled. This will fetch all of the project dependencies making it possible for Node to use the functionality provided by the project. 
@@ -41,6 +41,5 @@ Note: users are expected to know some JavaScript
 
 
 ## **_Heroku Deployment_**  
-[Heroku App](https://cda-tech-blog.herokuapp.com/)
 
-That's it, that's the speech! 
+
