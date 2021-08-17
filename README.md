@@ -38,6 +38,10 @@ Note: users are expected to know some JavaScript
         * NOTE: you'll need to add JAWS DB to your heroku app if you want this app published on heroku without fail.
 
 
+![Screenshot 2021-08-17 084639](https://user-images.githubusercontent.com/34521827/129728167-a8b4c2fb-458b-487d-ba50-273660f3df66.png)
+
+
+
 ## **_Link to GitHub Repository_**  
 https://github.com/PrinceAdelXX/Tech-Blog
 
